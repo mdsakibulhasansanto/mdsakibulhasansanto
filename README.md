@@ -65,3 +65,18 @@
   <li>💡 <b>Social Media App for Polytechnic Students</b></li>
   <li>💡 <b>Multi-service Upazila App:</b> Transport, Doctor Booking, Food & Market (Flutter + Golang + MySQL)</li>
 </ul>
+
+<h3 align="left">📸 Featured Image:</h3>
+<p align="center">
+  <img src="https://via.placeholder.com/800x400.png?text=My+Projects+Overview" alt="Featured Project Image" width="800"/>
+</p>
+
+<h3 align="left">🔗 Share on Facebook:</h3>
+<p align="center">
+  <a href="https://www.facebook.com/share/19ocrHvdf8/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook Share" width="50"/>
+  </a>
+  <a href="https://www.facebook.com/share/19ocrHvdf8/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook Share" width="50"/>
+  </a>
+</p>
