@@ -1,85 +1,67 @@
-<h1 align="center" style="font-family: 'Courier New', monospace;">Hi 👋, I'm <span style="color:#00BFFF;">Sakibul Hasan Santo</span></h1>
-<h3 align="center" style="font-family: 'Georgia', serif;">Passionate Flutter, Golang & Java Developer from Bangladesh</h3>
+<h1 align="center">Sakibul Hasan Santo</h1>
+<h3 align="center">Software Developer | Flutter, Golang & Java</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=mdsakibulhasansanto&label=Profile%20views&color=0e75b6&style=flat" alt="mdsakibulhasansanto" /> 
-</p>
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mdsakibulhasansanto" alt="mdsakibulhasansanto" />
-  </a> 
-</p>
-
-<p align="center"> 
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
-  </a> 
-  <a href="https://www.linkedin.com/help/linkedin/?trk=p_settings_helpcenter_globalnav_android" target="blank">
+<p align="center">
+  <a href="https://www.linkedin.com/help/linkedin/?trk=p_settings_helpcenter_globalnav_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Sakibul%20Hasan%20Santo-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-
-- 💬 Ask me about **Mobile App Development, Backend APIs, Flutter, Golang & Java Projects**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://fb.com/mdsakibulhasansanto" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  <a href="https://fb.com/mdsakibulhasansanto" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Sakibul%20Hasan%20Santo-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/mdsakibulhasansanto" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <a href="https://instagram.com/mdsakibulhasansanto" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Sakibul%20Hasan%20Santo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  </a> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
-  </a> 
+---
+
+## About Me
+I am **Sakibul Hasan Santo**, a passionate software developer from Bangladesh.  
+I graduated from **Moulvibazar Polytechnic Institute** in Computer Science & Technology (2021-22).  
+I focus on **Flutter, Golang, and Java** development, creating efficient and scalable applications.  
+I also enjoy **researching new technologies**, building projects, and contributing to open source.
+
+---
+
+## Expertise & Working Area
+1. Mobile App Development using Flutter  
+2. Backend API Development with Golang (Gin & Fiber)  
+3. Java-based applications and solutions  
+4. Database design and MySQL integration  
+5. Real-time chat & communication apps  
+6. Cloud deployment (AWS, Firebase)  
+7. UI/UX design and cross-platform solutions  
+
+---
+
+## Languages & Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsakibulhasansanto&show_icons=true&locale=en&layout=compact" alt="mdsakibulhasansanto" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdsakibulhasansanto&show_icons=true&locale=en" alt="mdsakibulhasansanto" /></p>
+## GitHub Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mdsakibulhasansanto&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsakibulhasansanto&layout=compact&theme=tokyonight" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsakibulhasansanto&" alt="mdsakibulhasansanto" /></p>
+---
+
+## Pinned Projects
+- **Flutter-Golang Chat App** – Real-time messaging app with Firebase notifications.  
+- **E-commerce Admin Panel** – Flutter frontend + Golang backend.  
+- **Task Management App** – Manage tasks, notifications, and categories efficiently.  
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
