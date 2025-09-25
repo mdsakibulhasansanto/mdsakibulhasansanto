@@ -2,12 +2,16 @@
 <h3 align="center">A passionate App Developer from Bangladesh | Flutter, Golang & Full-stack Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdsakibulhasansanto&label=Profile%20views&color=0e75b6&style=flat" alt="mdsakibulhasansanto" />
+  <img src="https://avatars.githubusercontent.com/u/159250587?v=4" alt="Profile Image" width="150" style="border-radius:50%;"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdsakibulhasansanto&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mdsakibulhasansanto" alt="mdsakibulhasansanto" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mdsakibulhasansanto" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -16,13 +20,7 @@
   <a href="https://fb.com/mdsakibulhasansanto" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40"/>
   </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/mdsakibulhasansanto/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="mailto:mdsakibulhasansanto@gmail.com" target="_blank">
+  <a href="mailto:mdsakibulhasansanto7@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
@@ -55,20 +53,9 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsakibulhasansanto&" alt="GitHub Streak"/>
 </p>
 
-<h3 align="left">🚀 Projects & Work:</h3>
-<ul>
-  <li>💡 <b>Nirapod Habiganj:</b> Safety & Emergency Response App (Flutter + Laravel)</li>
-  <li>💡 <b>Polytechnic Management App:</b> Admin Panel & Student App (Flutter + Laravel)</li>
-  <li>💡 <b>Income-Expense Tracker:</b> Flutter + Golang + MySQL</li>
-  <li>💡 <b>Hostel Management App:</b> Flutter + Golang + MySQL</li>
-  <li>💡 <b>Real-time Chat App:</b> Flutter + Golang + Firebase</li>
-  <li>💡 <b>Social Media App for Polytechnic Students</b></li>
-  <li>💡 <b>Multi-service Upazila App:</b> Transport, Doctor Booking, Food & Market (Flutter + Golang + MySQL)</li>
-</ul>
-
 <h3 align="left">📸 Featured Image:</h3>
 <p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=My+Projects+Overview" alt="Featured Project Image" width="800"/>
+  <img src="https://avatars.githubusercontent.com/u/159250587?v=4" alt="Featured Project Image" width="800"/>
 </p>
 
 <h3 align="left">🔗 Share on Facebook:</h3>
