@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👨‍💻👨‍💻, I'm Sakibul Hasan Santo</h1>
+<h1 align="center">Hi 👨‍💻, I'm Sakibul Hasan Santo</h1>
 <h3 align="center">Passionate Flutter & Golang Developer from Bangladesh</h3>
 
 <p align="center"> 
