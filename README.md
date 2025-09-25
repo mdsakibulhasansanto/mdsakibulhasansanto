@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sakibul Hasan Santo</h1>
-<h3 align="center">A passionate app developer from Bangladesh</h3>
+<h1 align="center">Hi 👨‍💻👨‍💻, I'm Sakibul Hasan Santo</h1>
+<h3 align="center">Passionate Flutter & Golang Developer from Bangladesh</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=mdsakibulhasansanto&label=Profile%20views&color=0e75b6&style=flat" alt="mdsakibulhasansanto" /> 
@@ -17,7 +17,7 @@
   </a> 
 </p>
 
-- 💬 Ask me about **App development**
+- 💬 Ask me about **Mobile App Development, Backend Development, and Flutter-Golang projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -66,9 +66,6 @@
   </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
