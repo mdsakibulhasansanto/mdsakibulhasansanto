@@ -1,44 +1,53 @@
-<h1 align="center">Sakibul Hasan Santo</h1>
-<h3 align="center">Software Developer | Flutter, Golang & Java</h3>
+<h1 align="center">Hi 👋, I'm Sakibul Hasan Santo</h1>
+<h3 align="center">Software Developer | Flutter & Golang Enthusiast | From Bangladesh</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/help/linkedin/?trk=p_settings_helpcenter_globalnav_android" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sakibul%20Hasan%20Santo-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://komarev.com/ghpvc/?username=mdsakibulhasansanto&label=Profile%20views&color=0e75b6&style=flat" alt="mdsakibulhasansanto" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+- 🎓 I have completed my Diploma in **Computer Science & Technology (2021-22)**  
+  from **Moulvibazar Polytechnic Institute**  
+- 💼 Currently working as **Software Developer at Sparktech Agency**  
+- 📱 Software Engineering is my profession  
+- 🚀 Focused on **Flutter** + **Golang** Backend Development  
+
+---
+
+### 🔥 Quick Highlights
+- 🌱 Currently learning & building with **Flutter + Golang + MySQL**  
+- 💡 Exploring **Clean Architecture** & **Backend API Development**  
+- 🎯 Next Target: **Advanced System Design & DevOps**  
+
+---
+
+### 🤝 Connect With Me
+<p align="left">
+  <a href="https://fb.com/mdsakibulhasansanto" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://fb.com/mdsakibulhasansanto" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Sakibul%20Hasan%20Santo-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <a href="https://www.instagram.com/mdsakibulhasansanto" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/mdsakibulhasansanto" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Sakibul%20Hasan%20Santo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.linkedin.com/in/mdsakibulhasansanto" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:mdsakibulhasansanto@gmail.com">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-## About Me
-I am **Sakibul Hasan Santo**, a passionate software developer from Bangladesh.  
-I graduated from **Moulvibazar Polytechnic Institute** in Computer Science & Technology (2021-22).  
-I focus on **Flutter, Golang, and Java** development, creating efficient and scalable applications.  
-I also enjoy **researching new technologies**, building projects, and contributing to open source.
-
----
-
-## Expertise & Working Area
-1. Mobile App Development using Flutter  
-2. Backend API Development with Golang (Gin & Fiber)  
-3. Java-based applications and solutions  
-4. Database design and MySQL integration  
-5. Real-time chat & communication apps  
-6. Cloud deployment (AWS, Firebase)  
-7. UI/UX design and cross-platform solutions  
-
----
-
-## Languages & Tools
+## 🛠️ Languages & Tools
 <p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/>
@@ -49,19 +58,15 @@ I also enjoy **researching new technologies**, building projects, and contributi
 
 ---
 
-## GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mdsakibulhasansanto&show_icons=true&theme=tokyonight" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsakibulhasansanto&layout=compact&theme=tokyonight" />
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdsakibulhasansanto&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsakibulhasansanto&" alt="GitHub Streak" />
+</p>
 
-## Pinned Projects
-- **Flutter-Golang Chat App** – Real-time messaging app with Firebase notifications.  
-- **E-commerce Admin Panel** – Flutter frontend + Golang backend.  
-- **Task Management App** – Manage tasks, notifications, and categories efficiently.  
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsakibulhasansanto&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
