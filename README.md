@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👨‍💻, I'm Sakibul Hasan Santo</h1>
-<h3 align="center">Passionate Flutter & Golang Developer from Bangladesh</h3>
+<h1 align="center" style="font-family: 'Courier New', monospace;">Hi 👋, I'm <span style="color:#00BFFF;">Sakibul Hasan Santo</span></h1>
+<h3 align="center" style="font-family: 'Georgia', serif;">Passionate Flutter, Golang & Java Developer from Bangladesh</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=mdsakibulhasansanto&label=Profile%20views&color=0e75b6&style=flat" alt="mdsakibulhasansanto" /> 
@@ -15,17 +15,20 @@
   <a href="https://twitter.com/" target="blank">
     <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
   </a> 
+  <a href="https://www.linkedin.com/help/linkedin/?trk=p_settings_helpcenter_globalnav_android" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sakibul%20Hasan%20Santo-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
-- 💬 Ask me about **Mobile App Development, Backend Development, and Flutter-Golang projects**
+- 💬 Ask me about **Mobile App Development, Backend APIs, Flutter, Golang & Java Projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://fb.com/mdsakibulhasansanto" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdsakibulhasansanto" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
   <a href="https://instagram.com/mdsakibulhasansanto" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdsakibulhasansanto" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
