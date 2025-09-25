@@ -1,148 +1,85 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Sakibul Hasan Santo - Portfolio</title>
-<style>
-    body {
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        background-color: #0f111a;
-        color: #fff;
-        margin: 0;
-        padding: 0;
-    }
-    header {
-        text-align: center;
-        padding: 50px 20px;
-        background: linear-gradient(90deg, #00c6ff, #0072ff);
-    }
-    header h1 {
-        font-size: 3em;
-        margin: 0;
-    }
-    header code {
-        display: block;
-        margin-top: 10px;
-        font-size: 1.2em;
-        background-color: #222;
-        padding: 10px;
-        border-radius: 5px;
-        cursor: pointer;
-    }
-    section {
-        padding: 50px 20px;
-        max-width: 900px;
-        margin: auto;
-    }
-    .animated-text {
-        font-size: 1.5em;
-        margin: 10px 0;
-        color: #00ffd5;
-        overflow: hidden;
-        white-space: nowrap;
-        border-right: 0.15em solid #00ffd5;
-        animation: typing 4s steps(40, end), blink-caret 0.75s step-end infinite;
-    }
-    @keyframes typing {
-        from { width: 0; }
-        to { width: 100%; }
-    }
-    @keyframes blink-caret {
-        50% { border-color: transparent; }
-    }
-    h2 {
-        border-bottom: 2px solid #00ffd5;
-        padding-bottom: 10px;
-        margin-bottom: 20px;
-    }
-    .highlight, .focus, .next-tech, .connect, .tools {
-        margin-bottom: 30px;
-    }
-    a {
-        color: #00ffd5;
-        text-decoration: none;
-        margin-right: 15px;
-    }
-    .badge {
-        display: inline-block;
-        margin: 5px;
-    }
-    .badge img {
-        height: 30px;
-    }
-</style>
-</head>
-<body>
+<h1 align="center">Hi 👋, I'm Sakibul Hasan Santo</h1>
+<h3 align="center">A passionate app developer from Bangladesh</h3>
 
-<header>
-    <h1>Sakibul Hasan Santo</h1>
-    <code onclick="copyText(this)">print('Sakibul Hasan Santo')</code>
-    <code onclick="copyText(this)">fmt.Println("Sakibul Hasan Santo")</code>
-</header>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=mdsakibulhasansanto&label=Profile%20views&color=0e75b6&style=flat" alt="mdsakibulhasansanto" /> 
+</p>
 
-<section>
-    <h2>About Me</h2>
-    <p>I graduated from <strong>Moulvibazar Polytechnic Institute</strong> with a degree in <strong>Computer Science & Technology (2021-22)</strong>.  
-       I am a passionate software developer focusing on Flutter and Golang development.</p>
-</section>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mdsakibulhasansanto" alt="mdsakibulhasansanto" />
+  </a> 
+</p>
 
-<section>
-    <h2>Tech Animations</h2>
-    <div class="animated-text">Software Developer at Sparktech Agency</div>
-    <div class="animated-text">📱 Software Engineering is My Profession</div>
-    <div class="animated-text">🚀 Flutter-Golang</div>
-</section>
+<p align="center"> 
+  <a href="https://twitter.com/" target="blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
+  </a> 
+</p>
 
-<section class="highlight">
-    <h2>Quick Highlights & Current Focus</h2>
-    <ul>
-        <li>Developing cross-platform mobile apps using Flutter</li>
-        <li>Backend API development using Golang (Gin, Fiber)</li>
-        <li>Database & RESTful API Integration</li>
-        <li>Continuous learning & improving coding skills</li>
-    </ul>
-</section>
+- 💬 Ask me about **App development**
 
-<section class="next-tech">
-    <h2>Next Technology</h2>
-    <ul>
-        <li>Microservices Architecture</li>
-        <li>Cloud Deployment (AWS, GCP)</li>
-        <li>Real-time Chat Apps</li>
-        <li>AI & ML Integrations</li>
-    </ul>
-</section>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://fb.com/mdsakibulhasansanto" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdsakibulhasansanto" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/mdsakibulhasansanto" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdsakibulhasansanto" height="30" width="40" />
+  </a>
+</p>
 
-<section class="connect">
-    <h2>Connect With Me</h2>
-    <a href="https://facebook.com/SakibulHasanSanto" target="_blank">Facebook</a>
-    <a href="https://instagram.com/SakibulHasanSanto" target="_blank">Instagram</a>
-    <a href="mailto:sakibulsanto@example.com">Email</a>
-</section>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+  </a> 
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  </a> 
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://golang.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  </a> 
+  <a href="https://redis.io" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
+  </a> 
+</p>
 
-<section class="tools">
-    <h2>Languages & Tools</h2>
-    <div class="badge"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></div>
-    <div class="badge"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></div>
-    <div class="badge"><img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white"></div>
-    <div class="badge"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></div>
-    <div class="badge"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></div>
-</section>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsakibulhasansanto&show_icons=true&locale=en&layout=compact" alt="mdsakibulhasansanto" /></p>
 
-<section class="github-stats">
-    <h2>GitHub Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakibulHasanSanto&layout=compact&theme=tokyonight" alt="Top Languages">
-    <img src="https://github-readme-stats.vercel.app/api?username=SakibulHasanSanto&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-</section>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdsakibulhasansanto&show_icons=true&locale=en" alt="mdsakibulhasansanto" /></p>
 
-<script>
-function copyText(el) {
-    navigator.clipboard.writeText(el.textContent).then(() => {
-        alert('Copied to clipboard!');
-    });
-}
-</script>
-
-</body>
-</html>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsakibulhasansanto&" alt="mdsakibulhasansanto" /></p>
