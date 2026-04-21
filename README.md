@@ -88,6 +88,36 @@ Interests   : Mobile Apps · Clean Architecture · Open Source
 
 ---
 
+## 📦 Open Source Package
+
+<div align="center">
+
+### 🖊️ draw_my_signature
+
+[![pub package](https://img.shields.io/pub/v/draw_my_signature.svg?style=for-the-badge&logo=dart&logoColor=white&color=02569B)](https://pub.dev/packages/draw_my_signature)
+[![pub likes](https://img.shields.io/pub/likes/draw_my_signature?style=for-the-badge&logo=dart&logoColor=white&color=0175C2)](https://pub.dev/packages/draw_my_signature)
+[![pub points](https://img.shields.io/pub/points/draw_my_signature?style=for-the-badge&logo=dart&logoColor=white&color=00ADD8)](https://pub.dev/packages/draw_my_signature)
+[![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Web%20%7C%20Desktop-3DDC84?style=for-the-badge&logo=flutter&logoColor=white)](https://pub.dev/packages/draw_my_signature)
+
+</div>
+
+A Flutter plugin providing a **customizable signature pad widget** with the ability to set stroke color, stroke width, background color, and save signatures as PNG images. This is a **native Flutter implementation**, so it supports **all platforms**.
+
+```yaml
+dependencies:
+  draw_my_signature: ^1.0.0
+```
+
+**✨ Features:**
+- 🖌️ Smooth and performance-optimized drawing across all devices
+- ↩️ Undo last stroke & clear functionality
+- 💾 Easy save as PNG and preview
+- 🎨 Fully customizable stroke color, width, and background
+
+> 🔗 [View on pub.dev](https://pub.dev/packages/draw_my_signature) · [GitHub Source](https://github.com/mdsakibulhasansanto/draw_my_signature)
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
