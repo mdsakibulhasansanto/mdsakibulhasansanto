@@ -22,38 +22,17 @@
 Name        : Sakibul Hasan Santo
 Role        : Junior App Developer
 Company     : Sparktech Agency — Dhaka, Bangladesh
-              (Aqua Tower 43, Mohakhali C/A)
-Education   : Moulvibazar Polytechnic Institute — CST (2021–22)
+Education   : Moulvibazar Polytechnic Institute
+              Diploma in Computer Science & Technology (CST)
 Focus       : Flutter · Android Native · Kotlin · Java
 Interests   : Mobile Apps · Clean Architecture · Open Source
 ```
 
-- 💼 Currently working as a **Junior App Developer** at **[Sparktech Agency](https://www.sparktech.agency/)** — a fast-growing software company building reliable, scalable, and human-centered digital solutions
-- 📱 Building cross-platform apps with **Flutter** and native Android apps with **Kotlin / Java**
+- 💼 Working as a **Junior App Developer** at **[Sparktech Agency](https://www.sparktech.agency/)** — building reliable, scalable, and human-centered digital products
+- 📱 Developing cross-platform apps with **Flutter** and native Android apps with **Kotlin / Java**
 - 🌱 Continuously learning **Clean Architecture**, **MVVM**, and **advanced state management**
-- 🔥 Part of a **650+ talented team** at Sparktech, serving **2000+ global clients**
 - 💡 Passionate about writing clean, maintainable, and scalable code
 - 🤝 Open to collaborating on interesting **Flutter** or **Android** projects
-
----
-
-## 🏢 Working At
-
-<div align="center">
-
-| | |
-|---|---|
-| **Company** | [Sparktech Agency](https://www.sparktech.agency/) |
-| **Tagline** | *Transforming Digital Dreams Into Reality* |
-| **Location** | Aqua Tower 43, Mohakhali C/A, Dhaka, Bangladesh |
-| **Team Size** | 650+ Professionals |
-| **Clients** | 2000+ Worldwide |
-| **Projects Delivered** | 5000+ |
-| **Satisfaction Rate** | 99% |
-
-</div>
-
-> Sparktech Agency is a software company dedicated to building **reliable, scalable, and human-centered** digital solutions engineered for the future.
 
 ---
 
@@ -97,11 +76,12 @@ Interests   : Mobile Apps · Clean Architecture · Open Source
 [![pub package](https://img.shields.io/pub/v/draw_my_signature.svg?style=for-the-badge&logo=dart&logoColor=white&color=02569B)](https://pub.dev/packages/draw_my_signature)
 [![pub likes](https://img.shields.io/pub/likes/draw_my_signature?style=for-the-badge&logo=dart&logoColor=white&color=0175C2)](https://pub.dev/packages/draw_my_signature)
 [![pub points](https://img.shields.io/pub/points/draw_my_signature?style=for-the-badge&logo=dart&logoColor=white&color=00ADD8)](https://pub.dev/packages/draw_my_signature)
+[![popularity](https://img.shields.io/pub/popularity/draw_my_signature?style=for-the-badge&logo=dart&logoColor=white&color=3DDC84)](https://pub.dev/packages/draw_my_signature)
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Web%20%7C%20Desktop-3DDC84?style=for-the-badge&logo=flutter&logoColor=white)](https://pub.dev/packages/draw_my_signature)
 
 </div>
 
-A Flutter plugin providing a **customizable signature pad widget** with the ability to set stroke color, stroke width, background color, and save signatures as PNG images. This is a **native Flutter implementation**, so it supports **all platforms**.
+A Flutter plugin providing a **customizable signature pad widget** with support for stroke color, stroke width, background color, and PNG export. A **pure Flutter implementation** — works on all platforms with zero native dependencies.
 
 ```yaml
 dependencies:
@@ -109,9 +89,9 @@ dependencies:
 ```
 
 **✨ Features:**
-- 🖌️ Smooth and performance-optimized drawing across all devices
-- ↩️ Undo last stroke & clear functionality
-- 💾 Easy save as PNG and preview
+- 🖌️ Smooth, performance-optimized drawing on all devices
+- ↩️ Undo last stroke & clear canvas
+- 💾 Export signature as PNG image
 - 🎨 Fully customizable stroke color, width, and background
 
 > 🔗 [View on pub.dev](https://pub.dev/packages/draw_my_signature) · [GitHub Source](https://github.com/mdsakibulhasansanto/draw_my_signature)
@@ -124,7 +104,7 @@ dependencies:
   <tr>
     <td width="50%" valign="top">
       <h3>📚 LMS — Learning Management System</h3>
-      <p>A full-featured offline-first learning management app with structured course content, progress tracking, and a robust Golang-powered backend.</p>
+      <p>An offline-first learning management app with structured course content, progress tracking, and a Golang-powered backend.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Riverpod-0553B1?style=flat-square&logo=flutter&logoColor=white"/>
@@ -135,12 +115,12 @@ dependencies:
         <li>Offline-first with SQLite local database</li>
         <li>Riverpod for reactive state management</li>
         <li>REST API integration with Golang backend</li>
-        <li>Clean Architecture (Repository Pattern)</li>
+        <li>Clean Architecture with Repository Pattern</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>✅ Task Manager App</h3>
-      <p>A productivity-focused task management application with category filtering, priority levels, reminders, and smooth REST API sync.</p>
+      <p>A productivity-focused task app with category filtering, priority levels, reminders, and REST API sync.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/GetX-8A2BE2?style=flat-square&logo=flutter&logoColor=white"/>
@@ -157,7 +137,7 @@ dependencies:
   <tr>
     <td width="50%" valign="top">
       <h3>🛒 Android E-commerce App</h3>
-      <p>A native Android e-commerce application built with Kotlin, featuring product listing, cart management, and seamless order flow.</p>
+      <p>A native Android e-commerce app with product listing, cart management, and a smooth order flow.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
@@ -172,7 +152,7 @@ dependencies:
     </td>
     <td width="50%" valign="top">
       <h3>💬 Flutter Chat App</h3>
-      <p>A real-time messaging application with Firebase backend, push notifications, and a clean modern chat interface.</p>
+      <p>A real-time messaging app with Firebase backend, push notifications, and a modern chat UI.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
@@ -215,9 +195,18 @@ dependencies:
 
 ---
 
+## 📬 Get In Touch
+
 <div align="center">
 
-### 💬 Quote I Live By
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdsakibulhasansanto)
+[![Facebook](https://img.shields.io/badge/Message%20Me-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mdsakibulhasansanto)
+
+</div>
+
+---
+
+<div align="center">
 
 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
