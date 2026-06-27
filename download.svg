@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+
+  <defs>
+
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"></stop>
+      <stop offset="100%" stop-color="#312E81"></stop>
+    </linearGradient>
+
+    <linearGradient id="text" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8"></stop>
+      <stop offset="50%" stop-color="#8B5CF6"></stop>
+      <stop offset="100%" stop-color="#EC4899"></stop>
+    </linearGradient>
+
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"></rect>
+
+  <!-- Decorative circles -->
+  <circle cx="90" cy="70" r="4" fill="#38BDF8" opacity="0.8"></circle>
+  <circle cx="170" cy="230" r="3" fill="#8B5CF6"></circle>
+  <circle cx="280" cy="90" r="2" fill="#FFFFFF"></circle>
+  <circle cx="1080" cy="80" r="4" fill="#EC4899"></circle>
+  <circle cx="1010" cy="240" r="3" fill="#38BDF8"></circle>
+  <circle cx="920" cy="120" r="2" fill="#FFFFFF"></circle>
+
+  <!-- Lines -->
+  <line x1="150" y1="80" x2="1050" y2="80" stroke="#334155" stroke-width="1"></line>
+
+  <line x1="150" y1="245" x2="1050" y2="245" stroke="#334155" stroke-width="1"></line>
+
+  <!-- Name -->
+  <text x="600" y="145" text-anchor="middle" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="52" font-weight="700" fill="url(#text)">
+      Md Sakibul Hasan Santo
+  </text>
+
+  <!-- Divider -->
+  <line x1="340" y1="168" x2="860" y2="168" stroke="#475569" stroke-width="2"></line>
+
+  <!-- Skills -->
+  <text x="600" y="205" text-anchor="middle" font-family="Segoe UI, Arial" font-size="24" fill="#E2E8F0">
+      Flutter • Kotlin • Java • Golang
+  </text>
+
+  <!-- Footer -->
+  <text x="600" y="245" text-anchor="middle" font-family="Consolas, monospace" font-size="16" fill="#94A3B8">
+      Building Modern Mobile &amp; Backend Applications
+  </text>
+
+</svg>
