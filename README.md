@@ -1,127 +1,99 @@
 <h5 align="center">لَا إِلٰهَ إِلَّا ٱللَّٰهُ مُحَمَّدٌ رَسُولُ ٱللَّٰهِ</h5>
 
-<!-- <h1 align="center">Hi 👋, I'm Md Sakibul Hasan Santo</h1> -->
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/mdsakibulhasansanto/mdsakibulhasansanto/main/santo.svg?v=2" alt="Md Sakibul Hasan Santo" />
-</h1>
-
-<h3 align="center">
-  Software Engineer | Mobile (Flutter, Kotlin, Java) & Backend (Golang)
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F3D2E,100:00C853&height=220&section=header&text=Md%20Sakibul%20Hasan%20Santo&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Cyber%20Security%20Engineer%20%E2%80%A2%20Software%20Engineer&descSize=18&descAlignY=56&animation=fadeIn" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Mobile+Applications;Crafting+High-Performance+Golang+Backends;Open+Source+Contributor+on+pub.dev" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&width=600&lines=Securing+Networks+%26+Applications;Penetration+Testing+on+Kali+Linux;Automating+Security+with+Python+%26+Bash;Building+Secure+Mobile+%26+Go+Backends" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/mdsakibulhasansanto">🌐 GitHub</a> •
-  <a href="mailto:mdsakibulhasansanto@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/mdsakibulhasansanto">💼 LinkedIn</a>
+  <a href="https://tryhackme.com/p/mdsakibulhasansanto"><img src="https://img.shields.io/badge/TryHackMe-0D1117?style=flat-square&logo=tryhackme&logoColor=C11111" /></a>
+  <a href="https://linkedin.com/in/mdsakibulhasansanto"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="mailto:mdsakibulhasansanto@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
+  <img src="https://komarev.com/ghpvc/?username=mdsakibulhasansanto&label=Views&color=00c853&style=flat-square" />
 </p>
 
----
+<br>
 
-<!-- <img align="right" alt="Coding" width="260" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"> -->
-<img align="right" alt="Md Sakibul Hasan Santo" height= "200" width="200" src="https://raw.githubusercontent.com/mdsakibulhasansanto/mdsakibulhasansanto/main/profile.jpeg?v=2">
+## 🛡️ About Me
 
-### 👨‍💻 About Me
-- 💻 Software Engineer with **2+ years** experience  
-- 📱 Mobile Development: **Flutter, Kotlin, Java**  
-- 🌐 Backend Development: **Golang**  
-- 🔭 Currently working on **Mobile Apps Development**  
-- 🌱 Learning **Golang Backend & DB Optimization**  
-- 💬 Ask me about **Flutter, Kotlin, Java, Golang**
+```bash
+┌──(santo㉿kali)-[~]
+└─$ whoami --verbose
 
----
+  👤 Md Sakibul Hasan Santo
+  🛡️ Cyber Security Engineer  •  💻 Software Engineer (2+ yrs)
+  🌐 Network Security  •  Penetration Testing  •  Secure Development
+  🧪 Home Lab   →  Kali Linux on VMware
+  🎯 Practice   →  TryHackMe
+  🐍 Automation →  Python & Bash scripting
+```
 
+<br>
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Networking & Security
 
-<table>
-<tr>
-<td align="center">
-  <a href="https://linkedin.com/in/mdsakibulhasansanto" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/><br>LinkedIn
-  </a>
-</td>
-
-<td align="center">
-  <a href="mailto:mdsakibulhasansanto@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="40"/><br>Gmail
-  </a>
-</td>
-
-<td align="center">
-  <a href="https://www.leetcode.com/mdsakibulhasansanto" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/><br>LeetCode
-  </a>
-</td>
-
-<td align="center">
-  <a href="https://codeforces.com/profile/mdsakibulhasansanto" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="40"/><br>Codeforces
-  </a>
-</td>
-
-<td align="center">
-  <a href="https://www.codechef.com/users/mdsakibulhasansanto" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="40"/><br>CodeChef
-  </a>
-</td>
-
-<td align="center">
-  <a href="https://www.hackerrank.com/mdsakibulhasansanto" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"/><br>HackerRank
-  </a>
-</td>
-
-<td align="center">
-  <a href="https://kaggle.com/mdsakibulhasansanto" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40"/><br>Kaggle
-  </a>
-</td>
-</tr>
+<table align="center">
+  <tr>
+    <td align="center" width="140">🔌<br><b>TCP/IP & OSI</b></td>
+    <td align="center" width="140">🧮<br><b>Subnetting</b></td>
+    <td align="center" width="140">🧭<br><b>Routing & Switching</b></td>
+    <td align="center" width="140">📛<br><b>DNS / DHCP</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="140">🔥<br><b>Firewalls</b></td>
+    <td align="center" width="140">🔒<br><b>VPN & Tunneling</b></td>
+    <td align="center" width="140">📡<br><b>Traffic Analysis</b></td>
+    <td align="center" width="140">🕵️<br><b>Pentesting</b></td>
+  </tr>
 </table>
 
----
+<br>
 
-<h3>Languages</h3>
+## ⚔️ Security Arsenal
 
-<table>
-<tr>
-<td align="center"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/><br>Dart</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/><br>Java</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40"/><br>Kotlin</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/><br>Golang</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,bash,py&theme=dark" />
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/VMware-0D1117?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=1679A7" />
+  <img src="https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=FF6633" />
+  <img src="https://img.shields.io/badge/TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&logoColor=C11111" />
+</p>
 
-<h3>Frameworks & Tools</h3>
+<br>
 
-<table>
-<tr>
-<td align="center"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/><br>Flutter</td>
-<td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png" width="40"/><br>Android</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" width="40"/><br>Jetpack Compose</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/><br>Go (Gin)</td>
-<td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="40"/><br>PostgreSQL</td>
-</tr>
+## 💻 Development Stack
 
-<tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/><br>MySQL</td>
-<td align="center"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/><br>Firebase</td>
-<td align="center"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/><br>SQLite</td>
-<td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/><br>Git</td>
-<td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/><br>Postman</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,java,androidstudio,go&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,git,postman&theme=dark" />
+</p>
 
+<br>
 
+## 🏆 Practice Platforms
 
+<p align="center">
+  <a href="https://tryhackme.com/p/mdsakibulhasansanto"><img src="https://img.shields.io/badge/TryHackMe-0D1117?style=flat-square&logo=tryhackme&logoColor=C11111" /></a>
+  <a href="https://www.leetcode.com/mdsakibulhasansanto"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=flat-square&logo=leetcode&logoColor=FFA116" /></a>
+  <a href="https://codeforces.com/profile/mdsakibulhasansanto"><img src="https://img.shields.io/badge/Codeforces-0D1117?style=flat-square&logo=codeforces&logoColor=1F8ACB" /></a>
+  <a href="https://www.codechef.com/users/mdsakibulhasansanto"><img src="https://img.shields.io/badge/CodeChef-0D1117?style=flat-square&logo=codechef&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/mdsakibulhasansanto"><img src="https://img.shields.io/badge/HackerRank-0D1117?style=flat-square&logo=hackerrank&logoColor=00EA64" /></a>
+  <a href="https://kaggle.com/mdsakibulhasansanto"><img src="https://img.shields.io/badge/Kaggle-0D1117?style=flat-square&logo=kaggle&logoColor=20BEFF" /></a>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=mdsakibulhasansanto&label=Total+Profile+Views:&color=red&style=for-the-badge" alt="mdsakibulhasansanto" height="36" />
+<br>
 
+## 📊 GitHub Activity
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsakibulhasansanto&" alt="mdsakibulhasansanto" /></p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mdsakibulhasansanto&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=00E676&text_color=C9D1D9" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsakibulhasansanto&hide_border=true&background=0D1117&ring=00E676&fire=00E676&currStreakLabel=00E676&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,50:0F3D2E,100:0D1117&height=120&section=footer" width="100%" />
